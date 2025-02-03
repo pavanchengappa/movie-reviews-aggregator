@@ -32,7 +32,7 @@
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/movie-reviews-aggregator.git
+git clone https://github.com/pavanchengappa/movie-reviews-aggregator.git
 cd movie-reviews-aggregator/REVIEW1/movie-reviews
 ```
 
@@ -74,7 +74,15 @@ npm start
 - App runs on `http://localhost:3000`
 
 ## 🌈 Screenshots
-[Add screenshots of your application here]
+![Screenshot 2025-01-05 143542](https://github.com/user-attachments/assets/12ec75b5-df78-42de-b1df-26aa094b8a3d)
+Simple movie review application with a title "Movie Reviews" and an input field for entering Movie name, accompanied by a "Fetch Reviews" button.
+![Screenshot 2025-01-05 142127](https://github.com/user-attachments/assets/36b61232-15f6-4f24-936b-2cbf88383987)
+Search results page featuring multiple movie cards with posters,titles,and release years. The movies are arranged in a responsive grid layout.
+![Screenshot 2025-01-05 142848](https://github.com/user-attachments/assets/99a2e611-b5de-48f9-a27f-40db9d38af30)
+Detailed reviews for the searched movie with an aggregate score prominently shown at the top. It includes sections for Metacritic reviews , IMDB reviews and New York Times reviews, featuring individual review excerpts and links to full reviews.
+
+
+
 
 ## 🤝 Contributing
 1. Fork the repository
